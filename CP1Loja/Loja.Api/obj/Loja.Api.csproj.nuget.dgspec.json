@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labsfiap\\Desktop\\Cp1.NetLoja\\CP1Loja\\Loja.Api\\Loja.Api.csproj": {}
+    "C:\\Users\\felip\\Desktop\\.NET\\Cp1.NetLoja\\CP1Loja\\Loja.Api\\Loja.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labsfiap\\Desktop\\Cp1.NetLoja\\CP1Loja\\Loja.Api\\Loja.Api.csproj": {
+    "C:\\Users\\felip\\Desktop\\.NET\\Cp1.NetLoja\\CP1Loja\\Loja.Api\\Loja.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labsfiap\\Desktop\\Cp1.NetLoja\\CP1Loja\\Loja.Api\\Loja.Api.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\Desktop\\.NET\\Cp1.NetLoja\\CP1Loja\\Loja.Api\\Loja.Api.csproj",
         "projectName": "Loja.Api",
-        "projectPath": "C:\\Users\\labsfiap\\Desktop\\Cp1.NetLoja\\CP1Loja\\Loja.Api\\Loja.Api.csproj",
-        "packagesPath": "C:\\Users\\labsfiap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labsfiap\\Desktop\\Cp1.NetLoja\\CP1Loja\\Loja.Api\\obj\\",
+        "projectPath": "C:\\Users\\felip\\Desktop\\.NET\\Cp1.NetLoja\\CP1Loja\\Loja.Api\\Loja.Api.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\Desktop\\.NET\\Cp1.NetLoja\\CP1Loja\\Loja.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\labsfiap\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -65,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\labsfiap\\.dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\felip\\.dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

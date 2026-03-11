@@ -1,0 +1,12 @@
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\bin\Debug\net10.0\Loja.Application.deps.json
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\bin\Debug\net10.0\Loja.Application.dll
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\bin\Debug\net10.0\Loja.Application.pdb
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\obj\Debug\net10.0\Loja.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\obj\Debug\net10.0\Loja.Application.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\obj\Debug\net10.0\Loja.Application.AssemblyInfo.cs
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\obj\Debug\net10.0\Loja.Application.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\obj\Debug\net10.0\Loja.Application.sourcelink.json
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\obj\Debug\net10.0\Loja.Application.dll
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\obj\Debug\net10.0\refint\Loja.Application.dll
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\obj\Debug\net10.0\Loja.Application.pdb
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Application\obj\Debug\net10.0\ref\Loja.Application.dll

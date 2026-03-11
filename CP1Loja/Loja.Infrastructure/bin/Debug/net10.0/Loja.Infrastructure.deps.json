@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Loja.Infrastructure/1.0.0": {
+        "runtime": {
+          "Loja.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loja.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

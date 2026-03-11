@@ -1,0 +1,12 @@
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\obj\Debug\net10.0\Loja.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\obj\Debug\net10.0\Loja.Domain.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\obj\Debug\net10.0\Loja.Domain.AssemblyInfo.cs
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\obj\Debug\net10.0\Loja.Domain.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\obj\Debug\net10.0\Loja.Domain.sourcelink.json
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\bin\Debug\net10.0\Loja.Domain.deps.json
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\bin\Debug\net10.0\Loja.Domain.dll
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\bin\Debug\net10.0\Loja.Domain.pdb
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\obj\Debug\net10.0\Loja.Domain.dll
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\obj\Debug\net10.0\refint\Loja.Domain.dll
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\obj\Debug\net10.0\Loja.Domain.pdb
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Domain\obj\Debug\net10.0\ref\Loja.Domain.dll

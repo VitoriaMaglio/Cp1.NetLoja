@@ -1,0 +1,12 @@
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\bin\Debug\net10.0\Loja.Infrastructure.deps.json
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\bin\Debug\net10.0\Loja.Infrastructure.dll
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\bin\Debug\net10.0\Loja.Infrastructure.pdb
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\obj\Debug\net10.0\Loja.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\obj\Debug\net10.0\Loja.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\obj\Debug\net10.0\Loja.Infrastructure.AssemblyInfo.cs
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\obj\Debug\net10.0\Loja.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\obj\Debug\net10.0\Loja.Infrastructure.sourcelink.json
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\obj\Debug\net10.0\Loja.Infrastructure.dll
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\obj\Debug\net10.0\refint\Loja.Infrastructure.dll
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\obj\Debug\net10.0\Loja.Infrastructure.pdb
+C:\Users\felip\Desktop\.NET\Cp1.NetLoja\CP1Loja\Loja.Infrastructure\obj\Debug\net10.0\ref\Loja.Infrastructure.dll
