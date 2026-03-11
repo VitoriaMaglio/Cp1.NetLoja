@@ -24,6 +24,6 @@ public class Pedido : BaseEntity
     public List<ItemPedido> Itens { get; set; } = new();
 
     //1-1 Um pedido tem 1 pagamento
-    //public Pagamento Pagamento { get; set; }
+    public Pagamento Pagamento { get; set; }
 
 }
