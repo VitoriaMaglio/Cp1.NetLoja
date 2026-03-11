@@ -10,6 +10,7 @@ public class ItemPedido : BaseEntity
     public decimal PrecoUnitario {get; private set;}
     public int IdPedido {get; private set;}//fk
     public int IdProduto {get; private set;}//fk
+    
     public Pedido Pedido {get; private set;}// Relacionamento N-1 muitos itens pertencem a um só pedido
     //public Produto Produto {get; private set;}// Relacionamento N-1 muitos itens pertencem a um produto
     
