@@ -12,7 +12,7 @@ public class Pedido : BaseEntity
 
     public decimal ValorTotal { get; private set; }
     
-    //FK relacionamento com Cliente N-1 muitos pedidos pertencem a um cliente
+    //FK relacionamento com Cliente N-1 muitos pedidos pertencem a um 
     public int IdCliente { get; private set; }
     
     //Relacionamento N-1 

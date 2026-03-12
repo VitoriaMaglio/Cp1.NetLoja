@@ -8,6 +8,7 @@ public class Pagamento : BaseEntity
     public decimal Valor { get; private set; }
     public DateTime Data { get; private set; }
     public Pedido Pedido { get; private set; }
+    
     //1 Pedido tem 1 Pagamento 
 
     public Pagamento(String tipoPagamento, decimal valor, DateTime data)

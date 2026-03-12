@@ -8,10 +8,18 @@ public class ItemPedido : BaseEntity
 {
     public int Quantidade {get; private set;}
     public decimal PrecoUnitario {get; private set;}
-    public int IdPedido {get; private set;}//fk
-    public int IdProduto {get; private set;}//fk
     
-    public Pedido Pedido {get; private set;}// Relacionamento N-1 muitos itens pertencem a um só pedido
+    //Chave estrangeira para Pedido
+    int IdPedido {get; set;}
+    
+    //Chave estrangeira para Produto
+    public int IdProduto {get; private set;}
+
+    // Relacionamento N:1
+    // Muitos itens de pedido pertencem a um único pedido
+    public Pedido Pedido {get; private set;}
+    
+    // Relacionamento N-1 muitos itens pertencem a um só pedido
     //public Produto Produto {get; private set;}// Relacionamento N-1 muitos itens pertencem a um produto
     
     //Lógica para criação de construtor da classe
