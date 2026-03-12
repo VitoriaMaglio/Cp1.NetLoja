@@ -9,7 +9,8 @@ public class Pagamento : BaseEntity
     public DateTime Data { get; private set; }
     public Pedido Pedido { get; private set; }
     
-    //1 Pedido tem 1 Pagamento 
+    //1 Pedido tem 1 Pagamento; 1:1
+    // Obrigatório, Pedido precisa ter um Pagamento, Pagamento não pode ser nulo.
 
     public Pagamento(String tipoPagamento, decimal valor, DateTime data)
     {

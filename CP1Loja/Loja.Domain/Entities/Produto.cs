@@ -23,6 +23,7 @@ public class Produto : BaseEntity
         
     }
     //Produto tem relacionamento com  Categoria
+    // Obrigatório, Categoria em Produto não pode ser nula.
     //1 CATEGORIA tem vários  N produtos
     
 }

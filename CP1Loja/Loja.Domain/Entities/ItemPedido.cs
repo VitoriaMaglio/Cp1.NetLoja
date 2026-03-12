@@ -17,10 +17,12 @@ public class ItemPedido : BaseEntity
 
     // Relacionamento N:1
     // Muitos itens de pedido pertencem a um único pedido
+    // Obrigatório: A chave estrangeira `IdPedido` em `ItemPedido` não pode ser nula.
     public Pedido Pedido {get; private set;}
     
     // Relacionamento N-1 muitos itens pertencem a um só pedido
-    //public Produto Produto {get; private set;}// Relacionamento N-1 muitos itens pertencem a um produto
+    public Produto Produto {get; private set;}
+    // Relacionamento N-1 muitos itens pertencem a um produto
     
     //Lógica para criação de construtor da classe
     /*

@@ -12,7 +12,9 @@ public class Pedido : BaseEntity
 
     public decimal ValorTotal { get; private set; }
     
-    //FK relacionamento com Cliente N-1 muitos pedidos pertencem a um 
+    //FK relacionamento com Cliente N-1 muitos pedidos pertencem a um
+    // Obrigatório, Pedido precisa obrigatóriamente estar relacionado a um Cliente
+    // Opcional o Cliente ter Pedidos, Pedido pode ser nulo.
     public int IdCliente { get; private set; }
     
     //Relacionamento N-1 
@@ -21,6 +23,7 @@ public class Pedido : BaseEntity
     public Cliente Cliente { get; set; }
 
     //Um pedido possui vários itens 1-N
+    // Obrigatório, cada Pedido precisa ter um ItemPedido associado.
     public List<ItemPedido> Itens { get; set; } = new();
 
     //1-1 Um pedido tem 1 pagamento
