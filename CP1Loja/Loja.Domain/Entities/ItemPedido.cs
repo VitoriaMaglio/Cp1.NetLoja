@@ -21,8 +21,10 @@ public class ItemPedido : BaseEntity
     public Pedido Pedido {get; private set;}
     
     // Relacionamento N-1 muitos itens pertencem a um só pedido
+    // Obrigatório
     public Produto Produto {get; private set;}
-    // Relacionamento N-1 muitos itens pertencem a um produto
+    // Relacionamento N-1 muitos itens pertencem a um 
+    // Obrigatório
     
     //Lógica para criação de construtor da classe
     /*
